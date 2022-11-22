@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hoaio
+- 👀 I’m interested in Quantum Cloud Computing and Machine Learning
+- 🌱 I’m currently learning Quantum Machine Learning and Reinforcement Learning
+- 💞️ I’m looking to collaborate on Quantum Serverless
+- 📫 How to reach me: hoa@hoaio.com
