@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @hoaio
-- 👀 I’m interested in Quantum Cloud Computing and Machine Learning
+- 👋 Hi, I’m Hoa Nguyen
+- 👀 I’m interested in Quantum Cloud Computing, Quantum Software and Machine Learning
 - 🌱 I’m currently learning Quantum Machine Learning and Reinforcement Learning
-- 💞️ I’m looking to collaborate on Quantum Serverless
+- 💞️ I’m looking to collaborate on Quantum Software
 - 📫 How to reach me: hoa@hoaio.com
