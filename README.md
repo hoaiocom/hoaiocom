@@ -2,6 +2,6 @@
 
 👀 My research focuses on **Resource Orchestration for Quantum Cloud Computing**, **Quantum Optimisations Algorithms**, **Quantum Software Engineering** and **Quantum Cybersecurity**
 
-🔗 To learn more about my research and projects, please visit my personal website at [hoaio.com](https://hoaio.com/) and my technical website [QuantumAI.Cloud](https://quantumai.cloud).
+🔗 To learn more about my research and projects, please visit my website at [hoaio.com](https://hoaio.com/) and my founded research lab at [QuantumAI.Cloud](https://quantumai.cloud).
 
-📫 Got questions or collaboration ideas on quantum or research projects? Feel free to reach me at contact@hoaio.com
+📫 Got questions or collaboration ideas on quantum or research projects? Feel free to reach me at contact@hoaio.com or thanhhoa@unimelb.edu.au
