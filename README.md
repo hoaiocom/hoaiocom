@@ -1,4 +1,4 @@
-👋 Hey, I’m **Hoa Nguyen**, a Research Scientist in Quantum Software at CSIRO and PhD Candidate in Quantum Cloud and Software Systems at the [qCLOUDS Lab](github.com/cloudslab), University of Melbourne, Australia
+👋 Hey, I’m **Hoa Nguyen**, a Research Scientist in Quantum Software at CSIRO and PhD Candidate in Quantum Cloud and Software Systems at the University of Melbourne, Australia
 
 👀 My research focuses on **Resource Orchestration for Quantum Cloud Computing**, **Quantum Optimisations**, **Quantum Software Engineering** and **Quantum Cybersecurity**
 
